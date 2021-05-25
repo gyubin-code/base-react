@@ -1,3 +1,5 @@
+## management system
+본 프로젝트는 나동빈 영상 리액트 고객관리 시스템 을 따라한 프로젝트입니다.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
